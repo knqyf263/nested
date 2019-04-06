@@ -1,6 +1,12 @@
 # nested
 Easier way to handle the nested data structure
 
+[![GoDoc](https://godoc.org/github.com/knqyf263/nested?status.svg)](https://godoc.org/github.com/knqyf263/nested)
+[![Build Status](https://travis-ci.org/knqyf263/nested.svg?branch=master)](https://travis-ci.org/knqyf263/nested)
+[![Coverage Status](https://coveralls.io/repos/github/knqyf263/nested/badge.svg?branch=master)](https://coveralls.io/github/knqyf263/nested?branch=master)
+[![Go Report Card](https://goreportcard.com/badge/github.com/knqyf263/nested)](https://goreportcard.com/report/github.com/knqyf263/nested)
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/knqyf263/nested/blob/master/LICENSE)
+
 ## Usage
 
 ### Set/Get/Delete
